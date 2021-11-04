@@ -1,0 +1,19 @@
+{
+"name": " Ynov Projet du meilleur prof",
+"short_name": "Projet",
+"start_url": "/index.html",
+"display": "standalone",
+"theme_color": "#ffff",
+"icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logos/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
